@@ -2093,7 +2093,7 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address {
-  background-image: url("../images/contact-bg.png");
+  /*background-image: url("../assets/images/contact-bg.png");*/
   background-position: left top;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -2101,7 +2101,7 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address address {
-  background-image: url("../images/icon-map.png");
+  /*background-image: url("../assets/images/icon-map.png");*/
   background-position: left top;
   background-repeat: no-repeat;
   padding-left: 40px;

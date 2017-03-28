@@ -22,16 +22,19 @@
         "styles.css",
         "../node_modules/bootstrap/dist/css/bootstrap.css",
         "../node_modules/lightbox2/dist/css/lightbox.css",
+        "assets/css/animate.min.css",
         "assets/css/main.css",
         "assets/css/responsive.css",
         "assets/css/font-awesome.min.css"
       ],
       "scripts": [
-        "../node_modules/jquery/dist/jquery.js",
+        "assets/js/jquery.js",
         "../node_modules/bootstrap/dist/js/bootstrap.js",
         "../node_modules/html5shiv/dist/html5shiv.js",
         "../node_modules/lightbox2/dist/js/lightbox.min.js",
-        "assets/js/respond.min.js"
+        "assets/js/respond.min.js",
+        "assets/js/wow.min.js",
+        "assets/js/main.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
